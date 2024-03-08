@@ -1,2 +1,2 @@
-# Depression-Analysis
+# Depression Analysis
 Digital Health course final project
